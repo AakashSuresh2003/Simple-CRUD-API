@@ -15,6 +15,7 @@ Before you begin, ensure you have met the following requirements:
 - Node.js (version 12.x or later)
 - npm (version 6.x or later) or Yarn (version 1.22.x or later)
 
+
 ## Installation
 
 Clone the repository to your local machine:
@@ -28,12 +29,14 @@ Install the necessary dependencies:
 
 ```bash
 npm install
+npm i mongoose
 ```
 
 or if you are using Yarn:
 
 ```bash
 yarn install
+yarn add mongoose
 ```
 
 ## Usage
